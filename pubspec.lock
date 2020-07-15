@@ -93,7 +93,7 @@ packages:
     description:
       path: "."
       ref: "0.6.x"
-      resolved-ref: e0b1d9151835206f46e0cbd366fc0a026adae3d6
+      resolved-ref: "34ae13647eccacd49c41dae259fb7b5bfe5a4b02"
       url: "https://github.com/CaiJingLong/flutter_photo_manager.git"
     source: git
     version: "0.5.5"
